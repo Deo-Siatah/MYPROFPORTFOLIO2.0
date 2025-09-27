@@ -1,5 +1,5 @@
 import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
-import Background from"@/components/background";
+import Background from"@/components/Background";
 import Homepage from "@/components/Homepage";
 import NanaCarepage from "@/pages/NanaCare";
 import Deadtimepage from "@/pages/Deadtime";
