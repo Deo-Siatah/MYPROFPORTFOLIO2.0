@@ -4,6 +4,7 @@ import SkillsPieChart from "@/pages/ExperienceChart";
 import Projects from "@/pages/projects";
 import { motion } from "framer-motion";
 import Humburger from "@/components/Humburger";
+import Footersection from "@/components/Footersection";
 export default function Homepage() {
     return (
         
@@ -27,9 +28,12 @@ export default function Homepage() {
             </div>
             {/* Call to Action Button */}
             <div className="mt-12">
-                <button className="px-8 py-3 bg-green-500 text-white rounded-sm hover:bg-green-600 transition duration-300">
+                <a
+                    href="mailto:deosiatah0@gmail.com"
+                    className="px-8 py-3 bg-green-500 text-white rounded-sm hover:bg-green-600 cursor-pointer "
+                    >
                     Hire Me
-                </button>
+                    </a>
             </div>
 
             {/* Fixed vertical email */}
@@ -84,7 +88,10 @@ export default function Homepage() {
             <Thisisme/>
             <TechStack/>
             <SkillsPieChart/>
-            <Projects/>
+            <Projects id="projects"/>
+             
+             <Footersection/>
+           
         </div>
 
     )

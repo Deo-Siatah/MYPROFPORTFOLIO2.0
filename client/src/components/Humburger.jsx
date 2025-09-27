@@ -29,10 +29,10 @@ export default function SidebarMenu() {
   <div className="bg-gradient-to-br  p-6 rounded-lg shadow-md">
     <h3 className="text-gray-300 text-xl mb-4">SOCIALS</h3>
     <ul className="space-y-2">
-      <li><a href="" className="hover:text-green-400 transition">Github</a></li>
-      <li><a href="" className="hover:text-green-400 transition">LinkedIn</a></li>
-      <li><a href="" className="hover:text-green-400 transition">Facebook</a></li>
-      <li><a href="" className="hover:text-green-400 transition">Tiktok</a></li>
+      <li><a href="https://github.com/Deo-Siatah/" target='_blank' rel="noopener noreferrer" className="hover:text-green-400 transition" onClick={() =>setOpen(false)}>Github</a></li>
+      <li><a href="https://www.linkedin.com/in/deo-siatah-325681320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target='_blank' rel="noopener noreferrer" className="hover:text-green-400 transition" onClick={() =>setOpen(false)}>LinkedIn</a></li>
+      <li><a href="https://wa.me/254768659047" target='_blank' rel="noopener noreferrer" className="hover:text-green-400 transition" onClick={() =>setOpen(false)}>Whatsapp</a></li>
+      <li><a href="https://www.tiktok.com/@codewithdeo?_t=ZM-904XqY887Qa&_r=1" target='_blank' rel="noopener noreferrer" className="hover:text-green-400 transition" onClick={() =>setOpen(false)}>Tiktok</a></li>
     </ul>
   </div>
 
@@ -40,10 +40,21 @@ export default function SidebarMenu() {
   <div className="bg-gradient-to-br  p-6 rounded-lg shadow-md">
     <h3 className="text-gray-300 text-xl mb-4">MENU</h3>
     <ul className="space-y-2">
-      <li><a href="" className="hover:text-green-400 transition">🟣 Projects</a></li>
-      <li><a href="" className="hover:text-green-400 transition">🟢 Stack</a></li>
-      <li><a href="" className="hover:text-green-400 transition">🔵 Experience</a></li>
-      <li><a href="" className="hover:text-green-400 transition">🟡 Contact</a></li>
+      <li><a href="#projects" 
+      className="hover:text-green-400 transition"
+      onClick={() => setOpen(false)}
+      >🟣 Projects</a></li>
+      <li><a href="#stack" 
+      className="hover:text-green-400 transition"
+      onClick={() => setOpen(false)}>🟢 Stack</a></li>
+      <li><a href="#experience" 
+      className="hover:text-green-400 transition"
+      onClick={() =>setOpen(false)}
+      >🔵 Experience</a></li>
+      <li><a href="#contact" 
+      className="hover:text-green-400 transition"
+      onClick={() =>setOpen(false)}
+      >🟡 Contact</a></li>
     </ul>
   </div>
 </div>

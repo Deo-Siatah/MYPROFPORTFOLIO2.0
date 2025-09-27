@@ -10,10 +10,10 @@ const SkillsPieChart = () => {
     { name: 'React.JS', year: '2025', value: 15, color: '#61DAFB' },
     { name: 'Node.js', year: '2025', value: 12, color: '#68A063' },
     { name: 'C', year: '2024', value: 18, color: '#3776AB' },
-    { name: 'JavaScript', year: '2024', value: 20, color: '#F7DF1E' },
+    { name: 'C++', year: '2024', value: 20, color: '#F7DF1E' },
     { name: 'MongoDB', year: '2025', value: 10, color: '#47A248' },
     { name: 'Python', year: '2024', value: 8, color: '#3178C6' },
-    { name: 'C++', year: '2025', value: 7, color: '#000000' },
+    { name: 'JavaScript', year: '2025', value: 7, color: '#000000' },
     { name: 'MySQL', year: '2024', value: 10, color: '#336791' }
   ];
 
@@ -31,7 +31,7 @@ const SkillsPieChart = () => {
   const centerPercentage = skillsData.reduce((sum, skill) => sum + skill.value, 0);
 
   return (
-    <div className="flex items-center justify-center min-h-screen  p-8">
+    <div className="flex items-center justify-center min-h-screen  p-8" id='experience'>
       <div className="relative">
         <motion.div
           className="relative"

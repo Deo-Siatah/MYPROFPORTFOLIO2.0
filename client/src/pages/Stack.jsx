@@ -16,7 +16,7 @@ import postman from "@/assets/postman.svg";
 import mongoose from "@/assets/mongoose.svg";
 export default function TechStack() {
     return (
-        <div >
+        <div id="stack" >
             <h2 className="flex items-center gap-4 text-white text-2xl ">
                 <Fan className="text-white w-8 h-8 animate-spin"
                 style={{animationDuration: '3s'}}

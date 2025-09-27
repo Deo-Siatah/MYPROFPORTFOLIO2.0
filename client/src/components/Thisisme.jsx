@@ -16,9 +16,12 @@ export default function Thisisme() {
           <h2 className="text-gray-100 mt-4 md:text-5xl">Hello am Siatah.</h2>
         </div>
         <div className="flex-1 text-gray-300 mt-4 md:text-lg">
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla tempore doloremque aliquam provident ullam impedit atque facere laboriosam consequuntur quia ratione qui inventore, similique eos, vitae animi fugiat. Vitae, a! <br />
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, molestias! Ipsum, ipsa. Corrupti, rerum. Aperiam provident neque, enim quis voluptate repudiandae, vitae quas error laborum, delectus laboriosam voluptatum eos quae!
+          <p> Motivated and purpose-driven Full Stack Developer currently pursuing a B.Sc. in Computer Science at Maasai Mara
+          University. Graduate of the Power Learn Project Africa, with hands-on experience in the MERN stack and AI
+          integrations. <br />
+            Passionate about building secure, scalable, and impactful digital solutions. Currently exploring
+            cybersecurity as a Tier-1 SOC Analyst, aiming to develop secure-by-design systems and defend against modern
+            threats.
           </p>
         </div>
       </div>

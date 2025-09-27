@@ -3,25 +3,34 @@ export default function NanaCare() {
     return (
         <div>
            <Projectpagecontainer
-                title="MTI Electronics"
+                title="NANACARE"
                 year="2025"
-                image=""
-                description="A complete agency and portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings."
+                image="/assets/nanacareportfoliopic.png"
+                description="A fullstack MERN application connecting domestic workers with verified employers under formal contracts, Focused on social impact, addressing informality and exploitation in domestic work."
                 techniques={[
-                    "Next.js",
-                    "Payload CMS",
+                    "React.js",
+                    "Expressjs",
                     "Tailwind CSS",
                     "shadcn",
-                    "Swiper.js",
-                    "React Hook Form",
+                    "JWT & bcrypt",
+                    "Axios",
+                    "Mongodb",
                     "Vercel"
                 ]}
                 features={[
-                    "Service Display System: Interactive service showcase with synchronized sliders.",
-                    "Blog Management: SEO-friendly blog with categorization and search.",
-                    "Product Showcase: Dynamic product grid with filtering and animations."
+                    "🌟Service Display System: Interactive service showcase with synchronized sliders.",
+                    "🌟Blog Management: SEO-friendly blog with categorization and search.",
+                    "🌟Product Showcase: Dynamic product grid with filtering and animations.",
+                    "🌟worker/employer review systems",
+                    "🌟Implemented secure authentication using JWT and bcypt",
+                    "🌟Added job-matching and training modules to promote professionalism and fair labor practices"
                 ]}
-                role="Led frontend development, designed UI/UX, integrated Payload CMS, and optimized deployment on Vercel."
+                roles={[
+                    "✅Designed backend  ",
+                    "🚀designed UI/UX",
+                ]} 
+                liveLink="https://nana-care-app-deo-siatah.vercel.app/"
+                githubLink="https://github.com/Deo-Siatah/NANA-CARE-APP-"  
                 />
 
 
