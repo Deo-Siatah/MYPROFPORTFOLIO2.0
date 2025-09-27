@@ -1,5 +1,5 @@
 import Thisisme from "@/components/Thisisme";
-import TechStack from "@/pages/stack";
+import TechStack from "@/pages/Stack";
 import SkillsPieChart from "@/pages/ExperienceChart";
 import Projects from "@/pages/projects";
 import { motion } from "framer-motion";
