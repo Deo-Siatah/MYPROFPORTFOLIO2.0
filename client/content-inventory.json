@@ -1,0 +1,390 @@
+{
+  "generatedAt": "2026-07-04",
+  "workspace": "client",
+  "textContent": [
+    {
+      "component": "Document",
+      "sourceFile": "index.html",
+      "strings": [
+        "Vite + React"
+      ]
+    },
+    {
+      "component": "Homepage",
+      "sourceFile": "src/components/Homepage.jsx",
+      "strings": [
+        "FULLSTACK",
+        "DEVELOPER",
+        "&",
+        "SOC ANALYST",
+        "Hello! am Siatah Deogracious. A passionate software developer and tier-one SOC Analyst,dedicated in building future-proof and secure solutions.",
+        "Hire Me",
+        "deosiatah0@gmail.com",
+        "2+",
+        "Years of Experience",
+        "7+",
+        "Projects Completed",
+        "5+",
+        "Certifications Achieved"
+      ]
+    },
+    {
+      "component": "Thisisme",
+      "sourceFile": "src/components/Thisisme.jsx",
+      "strings": [
+        "This is me",
+        "Hello am Siatah.",
+        "Motivated and purpose-driven Full Stack Developer currently pursuing a B.Sc. in Computer Science at Maasai Mara University. Graduate of the Power Learn Project Africa, with hands-on experience in the MERN stack and AI integrations. Passionate about building secure, scalable, and impactful digital solutions. Currently exploring cybersecurity as a Tier-1 SOC Analyst, aiming to develop secure-by-design systems and defend against modern threats."
+      ]
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "strings": [
+        "MY STACK",
+        "FRONTEND",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Tailwind",
+        "React",
+        "BACKEND",
+        "Python",
+        "NodeJs",
+        "ExpressJs",
+        "Mongoose",
+        "DATABASE",
+        "MongoDB",
+        "MySQL",
+        "TOOLS",
+        "Git",
+        "Github",
+        "Postman"
+      ]
+    },
+    {
+      "component": "SkillsPieChart",
+      "sourceFile": "src/pages/ExperienceChart.jsx",
+      "strings": [
+        "100%",
+        "Skills",
+        "Technical Skills",
+        "Hover over the chart to see acquisition years",
+        "React.JS",
+        "2025",
+        "Node.js",
+        "C",
+        "2024",
+        "C++",
+        "MongoDB",
+        "Python",
+        "JavaScript",
+        "MySQL"
+      ]
+    },
+    {
+      "component": "Projects",
+      "sourceFile": "src/pages/projects.jsx",
+      "strings": [
+        "SELECTED PROJECTS",
+        "NANA CARE",
+        "DEADTIME",
+        "LANGO AI"
+      ]
+    },
+    {
+      "component": "Projectpagecontainer",
+      "sourceFile": "src/components/Projectpagecontainer.jsx",
+      "strings": [
+        "Back",
+        "Year",
+        "Description",
+        "Key Features",
+        "Technical Highlights",
+        "My Role",
+        "Live Link",
+        "Github"
+      ]
+    },
+    {
+      "component": "NanaCare",
+      "sourceFile": "src/pages/NanaCare.jsx",
+      "strings": [
+        "NANACARE",
+        "2025",
+        "A fullstack MERN application connecting domestic workers with verified employers under formal contracts, Focused on social impact, addressing informality and exploitation in domestic work.",
+        "React.js",
+        "Expressjs",
+        "Tailwind CSS",
+        "shadcn",
+        "JWT & bcrypt",
+        "Axios",
+        "Mongodb",
+        "Vercel",
+        "🌟Service Display System: Interactive service showcase with synchronized sliders.",
+        "🌟Blog Management: SEO-friendly blog with categorization and search.",
+        "🌟Product Showcase: Dynamic product grid with filtering and animations.",
+        "🌟worker/employer review systems",
+        "🌟Implemented secure authentication using JWT and bcypt",
+        "🌟Added job-matching and training modules to promote professionalism and fair labor practices",
+        "✅Designed backend",
+        "🚀designed UI/UX"
+      ]
+    },
+    {
+      "component": "Deadtime",
+      "sourceFile": "src/pages/Deadtime.jsx",
+      "strings": [
+        "DEADTIME",
+        "2025",
+        "Tons of people start projects (coding, business ideas, YouTube channels, etc.) but abandon them. This platform preserves them, allows others to adopt, fork, or revive them - turning a \"dead\" project into a community-driven restart.",
+        "React.js",
+        "Expressjs",
+        "websockets",
+        "Oauth",
+        "Tailwind CSS",
+        "shadcn",
+        "JWT & bcrypt",
+        "Axios",
+        "Mongodb",
+        "Vercel",
+        "🚀Graveyard view A dope visual timeline or graveyard map of abandoned projects.",
+        "✨Submit Project to the Graveyard: Users upload their unfinished projects with a short backstory and status i.e abandoned, on-hold, half-baked idea",
+        "✨Legacy Mode: Original creators can see updates and progress if someone revives it.",
+        "'✨Revival Streak: Leaderboards for those who’ve successfully brought dead projects back to life.",
+        "🚀Ghost Notes: People can leave encouraging notes or suggestions to the original creator anonymously.",
+        "✅Designed backend",
+        "🚀Designed the Database"
+      ]
+    },
+    {
+      "component": "SidebarMenu",
+      "sourceFile": "src/components/Humburger.jsx",
+      "strings": [
+        "SOCIALS",
+        "Github",
+        "LinkedIn",
+        "Whatsapp",
+        "Tiktok",
+        "MENU",
+        "🟣 Projects",
+        "🟢 Stack",
+        "🔵 Experience",
+        "🟡 Contact",
+        "GET IN TOUCH",
+        "deosiatah0@gmail.com"
+      ]
+    },
+    {
+      "component": "Footersection",
+      "sourceFile": "src/components/Footersection.jsx",
+      "strings": [
+        "Have a project in mind ?",
+        "deosiatah0@gmail.com",
+        "Designed & built by Deo Siatah"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/html.svg",
+      "altText": "HTML"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/css.svg",
+      "altText": "Javascript"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/javascript.svg",
+      "altText": "HTML"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/tailwind.svg",
+      "altText": "tailwindcss"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/react.svg",
+      "altText": "react"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/python.svg",
+      "altText": "Python"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/nodejs.svg",
+      "altText": "nodejs"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/expressjs.svg",
+      "altText": "ExpressJs"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/mongoose.svg",
+      "altText": "mongoose"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/mongodb.svg",
+      "altText": "mongodb"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/mysql.svg",
+      "altText": "mysql"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/git.svg",
+      "altText": "Git"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/github.svg",
+      "altText": "mysql"
+    },
+    {
+      "component": "TechStack",
+      "sourceFile": "src/pages/Stack.jsx",
+      "path": "src/assets/postman.svg",
+      "altText": "postman"
+    },
+    {
+      "component": "NanaCare",
+      "sourceFile": "src/pages/NanaCare.jsx",
+      "path": "/assets/nanacareportfoliopic.png",
+      "altText": "NANACARE preview",
+      "renderedIn": "Projectpagecontainer"
+    },
+    {
+      "component": "Deadtime",
+      "sourceFile": "src/pages/Deadtime.jsx",
+      "path": "/assets/Deadtimepic.png",
+      "altText": "DEADTIME preview",
+      "renderedIn": "Projectpagecontainer"
+    }
+  ],
+  "externalLinks": [
+    {
+      "component": "Homepage",
+      "sourceFile": "src/components/Homepage.jsx",
+      "label": "Hire Me",
+      "destination": "mailto:deosiatah0@gmail.com"
+    },
+    {
+      "component": "Homepage",
+      "sourceFile": "src/components/Homepage.jsx",
+      "label": "deosiatah0@gmail.com",
+      "destination": "mailto:deosiatah0@gmail.com"
+    },
+    {
+      "component": "Footersection",
+      "sourceFile": "src/components/Footersection.jsx",
+      "label": "deosiatah0@gmail.com",
+      "destination": "mailto:deosiatah0@gmail.com"
+    },
+    {
+      "component": "Footersection",
+      "sourceFile": "src/components/Footersection.jsx",
+      "label": "GitHub icon",
+      "destination": "https://github.com/Deo-Siatah/"
+    },
+    {
+      "component": "Footersection",
+      "sourceFile": "src/components/Footersection.jsx",
+      "label": "LinkedIn icon",
+      "destination": "https://www.linkedin.com/in/deo-siatah-325681320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "component": "Footersection",
+      "sourceFile": "src/components/Footersection.jsx",
+      "label": "WhatsApp icon",
+      "destination": "https://wa.me/254768659047"
+    },
+    {
+      "component": "Footersection",
+      "sourceFile": "src/components/Footersection.jsx",
+      "label": "TikTok icon",
+      "destination": "https://www.tiktok.com/@codewithdeo?_t=ZM-904XqY887Qa&_r=1"
+    },
+    {
+      "component": "SidebarMenu",
+      "sourceFile": "src/components/Humburger.jsx",
+      "label": "Github",
+      "destination": "https://github.com/Deo-Siatah/"
+    },
+    {
+      "component": "SidebarMenu",
+      "sourceFile": "src/components/Humburger.jsx",
+      "label": "LinkedIn",
+      "destination": "https://www.linkedin.com/in/deo-siatah-325681320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "component": "SidebarMenu",
+      "sourceFile": "src/components/Humburger.jsx",
+      "label": "Whatsapp",
+      "destination": "https://wa.me/254768659047"
+    },
+    {
+      "component": "SidebarMenu",
+      "sourceFile": "src/components/Humburger.jsx",
+      "label": "Tiktok",
+      "destination": "https://www.tiktok.com/@codewithdeo?_t=ZM-904XqY887Qa&_r=1"
+    },
+    {
+      "component": "SidebarMenu",
+      "sourceFile": "src/components/Humburger.jsx",
+      "label": "deosiatah0@gmail.com",
+      "destination": "mailto:deosiatah0@gmail.com"
+    },
+    {
+      "component": "Projectpagecontainer",
+      "sourceFile": "src/pages/NanaCare.jsx",
+      "label": "Live Link",
+      "destination": "https://nana-care-app-deo-siatah.vercel.app/",
+      "pageContext": "NanaCare"
+    },
+    {
+      "component": "Projectpagecontainer",
+      "sourceFile": "src/pages/NanaCare.jsx",
+      "label": "Github",
+      "destination": "https://github.com/Deo-Siatah/NANA-CARE-APP-",
+      "pageContext": "NanaCare"
+    },
+    {
+      "component": "Projectpagecontainer",
+      "sourceFile": "src/pages/Deadtime.jsx",
+      "label": "Live Link",
+      "destination": "https://deadtime2.vercel.app/",
+      "pageContext": "Deadtime"
+    },
+    {
+      "component": "Projectpagecontainer",
+      "sourceFile": "src/pages/Deadtime.jsx",
+      "label": "Github",
+      "destination": "https://github.com/creeksonJoseph/Deadtime",
+      "pageContext": "Deadtime"
+    }
+  ]
+}
